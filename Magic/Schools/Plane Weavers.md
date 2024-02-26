@@ -1,0 +1,1 @@
+Magic that alters the physical state of time and space. Can open rifts to other planes (usually to the [[Warp]]), seal rifts with the help of a [[Rift Pearl]], create temporary pocket dimensions, increase or decrease the size of objects.

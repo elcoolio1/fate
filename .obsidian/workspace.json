@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "95efecff56c99ca6",
+    "type": "split",
+    "children": [
+      {
+        "id": "351ad3dc19350ba4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "530df00787b3b5c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fate/Game.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ca01bce1bf572b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "19494cf4d75b2b9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a42fb864c2c862a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41bebbb36e3381d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "087cf3920239dfe4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0575f7771970f28a",
+    "type": "split",
+    "children": [
+      {
+        "id": "32ca98101cde65a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24a75e1cdc7c1c3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fate/Game.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "744d1065c6e52e24",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fate/Game.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3ee7db9a1fd07cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a45a2d15951ce348",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fate/Game.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "530df00787b3b5c1",
+  "lastOpenFiles": [
+    "Vehicles/Unique vehicles/HIMW Sharalon's Reach.md",
+    "Vehicles/Unique vehicles/HIMW Moonshadow.md",
+    "Vehicles/Types/Imperial Deep Warp Colony Ship.md",
+    "Vehicles/Types/Imperial Deep Warp Scout.md",
+    "Magic/Aether.md",
+    "Places/Warp/Warp.md",
+    "Events/Breaking.md",
+    "Pictures/Realspace.md",
+    "People/Dwarves/Granny Cavehand.md",
+    "People/Dwarves/Sinbar Cavehand.md",
+    "People/Dwarves/Skarbar Cavehand.md",
+    "Places/Realspace/Brimbledook Caverns.md",
+    "Places/Realspace/Waxen Prairies/Waxen Prairies.md",
+    "Places/Realspace/Waxen Prairies",
+    "Places/Realspace/Waxen Prairies/Waxengate.md",
+    "Fate/Game.md",
+    "Pictures/cathy passion.webp",
+    "Pictures/truthsayer.webp",
+    "People/Dwarves/Captain Reeker.md",
+    "People/Elves/HIM.md",
+    "People/Dwarves/Vondil Rumblefeather.md",
+    "People/Elves/Imperial Inquisitor.md",
+    "People/Elves/Imperial Truthsayer.md",
+    "Magic/Paladium.md",
+    "Magic/Water Test.md",
+    "Magic/Schools/Electromages.md",
+    "Magic/Schools/Vivomancers.md",
+    "Magic/Schools/Thermokineticists.md",
+    "Magic/Schools/Plane Weavers.md",
+    "Vehicles/Unique vehicles",
+    "Vehicles/Types",
+    "Fate"
+  ]
+}

@@ -1,0 +1,1 @@
+The abilities to change the energy in an object or substance as well as to impart physical forces

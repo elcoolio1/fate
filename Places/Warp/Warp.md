@@ -1,0 +1,1 @@
+Alternate plane to [[Realspace]]. No gravity without planetary bodies and no [[Aether]] to float conventional ships. Home to [[warp storm]]s and many strange creatures. The magnitude of magic tends to be increased and effects are inconsistent at times. Coordinates are fixed to [[Realspace]] positions before the [[Breaking]].

@@ -1,0 +1,1 @@
+Magic that influences life and living things. Can be used to increase growth rates, heal injuries, create new creatures

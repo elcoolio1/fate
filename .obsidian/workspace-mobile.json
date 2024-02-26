@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "f0c48c580236a6b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e947c97ba5a5390",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ecb16477d43e28f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creatures/Bubble Slug.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6153a56ac4700e6f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3a37029c47f56166",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e51cd577d52be00e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "adf537034f6c7356",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "ddccca1e82bfa4c7",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cf3c1134c701422d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5f5a0770387651d5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Creatures/Bubble Slug.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b075197753e5ee13",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Creatures/Bubble Slug.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "dc667970970c7ef2",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Creatures/Bubble Slug.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3ecb16477d43e28f",
+  "lastOpenFiles": [
+    "Creatures/Octogintepus.md",
+    "Creatures/Void Heptapus.md",
+    "Creatures/Spider Monkey.md",
+    "Creatures/Petal Snelt.md",
+    "Creatures/Echo Gecho.md",
+    "Creatures/Homing Squid.md",
+    "Places/Warp/Hoxxes IV.md",
+    "Factions/IFE.md",
+    "Events/War of Human Aggression.md",
+    "Pictures/Octogintepus.jpg",
+    "Pictures/Corrosive Snail.jpg",
+    "Pictures/Sabre Sloth.jpg",
+    "Pictures/Echo Gecko.jpg",
+    "Pictures/Petal Snelt.jpg",
+    "Pictures/Bubble Slug.jpg",
+    "Pictures/Brood Worm.jpg",
+    "Pictures/Death Lily.jpg",
+    "Creatures/Death Lily.md",
+    "Creatures/Bubble Slug.md",
+    "Creatures/Brood Worm.md",
+    "Creatures/Corrosive Snail.md",
+    "Creatures/Sabre Sloth.md",
+    "Pictures/Realspace.md",
+    "Events/Breaking.md",
+    "Places/Warp/Warp.md",
+    "Vehicles/Imperial Deep Warp Colony Ship.md",
+    "Pictures/Colony Ship.jpg",
+    "Pictures/Spidermonkey.jpg",
+    "Pictures",
+    "People/Other/Felix Purdy.md",
+    "Magic/Paladium.md",
+    "Magic/Water Test.md",
+    "Magic/Schools/Thermokineticists.md",
+    "People/Dwarves/Karl Vokstov.md",
+    "Magic/Schools/Electromages.md",
+    "Magic/Schools/Vivomancers.md",
+    "Magic/Schools/Plane Weavers.md",
+    "Magic/Schools",
+    "Magic",
+    "People/Dwarves",
+    "People/Elves",
+    "Events",
+    "Creatures",
+    "People/Other",
+    "Places/Realspace/Forge Plains",
+    "Places/Realspace/Imperial Core"
+  ]
+}

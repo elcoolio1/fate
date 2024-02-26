@@ -1,0 +1,2 @@
+Marble sized deep black relic found deep in planters bodies in the [[Warp]]. Used by casters to seal rifts opened between [[Realspace]] and the [[Warp]]. 
+Extremely valuable and generally stationed at warp gates.

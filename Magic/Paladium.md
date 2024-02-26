@@ -1,0 +1,1 @@
+Paladium creates a field that dampens magical effects near to it. Although rare in nature, it is used extensively by the [[IFE]]
