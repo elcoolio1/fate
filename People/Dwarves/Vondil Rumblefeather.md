@@ -1,1 +1,0 @@
-Greenbeard recruit with [[CHOWMM]]'s deep [[Warp]] mining operations. 
